@@ -1,0 +1,12 @@
+h2{
+    text-align: center;
+    margin: auto;
+    padding: 20px;
+}
+
+app-alta-cliente{
+ width: 50%;   
+}
+app-listado-clientes{
+    width: 50%;
+}

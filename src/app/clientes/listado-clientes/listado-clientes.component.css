@@ -1,0 +1,31 @@
+div{
+    display: flex;
+    flex-direction: column;
+    background-color: #616161;
+    color: white;
+    text-align: center;
+    width: 500px;
+    height: 400px;
+    margin: auto;
+}
+
+h2{
+    text-align: center;
+    margin: auto;
+    padding: 20px;
+    color: white;
+}
+
+
+article {
+    display: flex;
+    margin: 2px;
+    padding: 2px;
+    font-size: 0.9em;
+}
+
+span {
+    display: inline;
+    width: 22%;
+    margin: auto;
+}
